@@ -1,0 +1,31 @@
+
+*{
+    margin: 0 auto;
+    padding: 0;
+
+}
+
+.geral{
+    width: 900px;
+    background-color: aquamarine;
+}
+
+header{
+    display: flex;
+    list-style: none;
+}
+.rodape img{
+    width: 90px;
+}
+.icon{
+    width: 70px;
+}
+.text1{
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.img2{
+    width: 300px;
+}
