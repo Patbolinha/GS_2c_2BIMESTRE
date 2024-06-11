@@ -7,7 +7,7 @@
 
 .geral{
     width: 900px;
-    background-color: aquamarine;
+    background-color:rgb(179, 174, 174);
 }
 
 header{
@@ -27,5 +27,69 @@ header{
     text-align: center;
 }
 .img2{
-    width: 300px;
+    width: 450px;
+}
+.cima{
+    display: flex;
+}
+.part1{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    width: 50%;
+    height: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.part2{
+    width: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.meio1{
+    margin-top: 20px;
+    display: flex;
+    text-align: center;
+}
+.part3{
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+}
+.part4{
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+}
+.part5{
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+}
+.baixo{
+    display: flex;
+    margin-top: 20px;
+}
+.part6{
+    width: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+.part7{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    width: 50%;
+    height: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+.rodape{
+    background-color: rgb(107, 106, 106);
+    height: 200px;
+}
+.rodape img{
+    margin-left: 12%;
+    margin-top: 20px;
 }
